@@ -1,0 +1,12 @@
+insert into contatos (nome, email, data) values ('Batista Sobrinho', 'batista@email.com', '2020-03-24');
+insert into contatos (nome, email, data) values ('Felipe Santos', 'santos@email.com', '2020-03-24');
+insert into contatos (nome, email, data) values ('Pedro', 'pedro@email.com', '2020-03-24');
+insert into contatos (nome, email, data) values ('Sabrina Pereira', 'spereira@email.com', '2020-03-24');
+insert into contatos (nome, email, data) values ('Airton Neto', 'airton@email.com', '2020-03-24');
+insert into contatos (nome, email, data) values ('Simara Trentinni', 'trentinni75@email.com', '2020-03-25');
+insert into contatos (nome, email, data) values ('Carol', 'carol@email.com', '2020-03-25');
+insert into contatos (nome, email, data) values ('Francisco Oliveira', 'ofrancisco@email.com', '2020-03-25');
+insert into contatos (nome, email, data) values ('Carlos Lima', 'limacarlos@email.com', '2020-03-25');
+insert into contatos (nome, email, data) values ('Rodrigo Ferreira', 'frodrigo@email.com', '2020-03-26');
+insert into contatos (nome, email, data) values ('Bruno Almeida', 'almeidabruno@email.com', '2020-03-26');
+insert into contatos (nome, email, data) values ('Eduardo Nascimento', 'enascimento@email.com', '2020-03-26');
